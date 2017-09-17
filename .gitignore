@@ -1,0 +1,7 @@
+.idea
+*.iml
+target/
+node_modules/
+node/
+dist/
+src/main/resources/static/**
